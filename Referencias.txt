@@ -1,0 +1,16 @@
+@online{
+Kepler Data,
+author = "NASA",
+title = "Kepler Exoplanet Search Results",
+year = "2017",
+url = "https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results/",
+urldate = "2023-10-22"
+}
+
+@online{
+LightKurve Doc,
+author = "Lightkurve developers",
+title = "Searching & downloading Kepler, K2, and TESS data",
+url = "https://docs.lightkurve.org/tutorials/1-getting-started/searching-for-data-products.html",
+urldate = "2023-10-22"
+}
