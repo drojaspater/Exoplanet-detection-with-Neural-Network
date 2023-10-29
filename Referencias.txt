@@ -14,3 +14,11 @@ title = "Searching & downloading Kepler, K2, and TESS data",
 url = "https://docs.lightkurve.org/tutorials/1-getting-started/searching-for-data-products.html",
 urldate = "2023-10-22"
 }
+
+@online{
+Metalicidad,
+author = "Mikulski archive for space telescopes",
+title = "Kepler Input Catalog",
+url = "https://archive.stsci.edu/kepler/kic10/search.php?form=fuf",
+urldate = "2023-10-28"
+}
