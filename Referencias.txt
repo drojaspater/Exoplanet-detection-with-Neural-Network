@@ -8,6 +8,15 @@ urldate = "2023-10-22"
 }
 
 @online{
+Dic Kepler Data,
+author = "NASA",
+title = "Data Columns in Kepler Objects of Interest Table",
+year = "2021",
+url = "https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html",
+urldate = "2023-10-28"
+}
+
+@online{
 LightKurve Doc,
 author = "Lightkurve developers",
 title = "Searching & downloading Kepler, K2, and TESS data",
